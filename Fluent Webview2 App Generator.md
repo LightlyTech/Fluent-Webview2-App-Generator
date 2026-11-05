@@ -1,7 +1,9 @@
 ---
 name: fluent-webview2-app
-description: Generates desktop applications that follow the Windows 11 Fluent design language and render their interface with WebView2 (the Microsoft Edge Chromium engine). The host software framework is unconstrained: Python/pywebview, WPF, WinForms, WinUI 3, Electron, Tauri, C++/Win32, Rust/wry, and others can all serve as the shell, while the UI is uniformly injected into WebView2 as HTML/CSS/JS (either as inline strings or as embedded resources). Use this when the user mentions "Windows 11 Fluent desktop app", "WebView2 interface", "WPF/WinForms/WinUI/Electron/Tauri/pywebview Fluent UI", or "embedding HTML as the interface inside a desktop window". Always output complete, runnable code, and choose the correct string boundaries for the host language to prevent unterminated triple quotes or quotes.
+description: |
+  Generates desktop applications that follow the Windows 11 Fluent design language and render their interface with WebView2 (the Microsoft Edge Chromium engine). The host software framework is unconstrained: Python/pywebview, WPF, WinForms, WinUI 3, Electron, Tauri, C++/Win32, Rust/wry, and others can all serve as the shell, while the UI is uniformly injected into WebView2 as HTML/CSS/JS (either as inline strings or as embedded resources). Use this when the user mentions "Windows 11 Fluent desktop app", "WebView2 interface", "WPF/WinForms/WinUI/Electron/Tauri/pywebview Fluent UI", or "embedding HTML as the interface inside a desktop window". Always output complete, runnable code, and choose the correct string boundaries for the host language to prevent unterminated triple quotes or quotes.
 ---
+
 
 # Windows 11 Fluent + WebView2 Desktop App Generator
 
